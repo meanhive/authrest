@@ -1,0 +1,4 @@
+{
+    "db_uri": "mongodb+srv://pruthvi:Seetha143@cluster0-yn2kx.mongodb.net/DBauth?&w=majority&retryWrites=true&ssl=true",
+    "secret": "bepractical@2020"
+}
